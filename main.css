@@ -1,0 +1,25 @@
+h2,h3,h4,h5 {
+    color: black;
+    font-family: 'Arial';
+}
+p{
+color: black;
+font-family:'Arial';
+text-align: justify;
+}
+
+.contact-photo{
+    border-radius: 50px;
+    padding: 5px;
+    margin:5px;
+}
+
+.contact-info{
+font-style: 'Arial';
+color:brown;
+display: inline-block;
+margin-left:1%;
+vertical-align: top;
+padding: 8px;   
+
+}
