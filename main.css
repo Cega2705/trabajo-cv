@@ -15,11 +15,12 @@ text-align: justify;
 }
 
 .contact-info{
-font-style: 'Arial';
-color:brown;
+font-style: 'italic';
+color: black;
 display: inline-block;
 margin-left:1%;
 vertical-align: top;
 padding: 8px;   
 
 }
+ 
