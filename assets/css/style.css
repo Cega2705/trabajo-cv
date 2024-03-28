@@ -4,3 +4,20 @@
     padding: 10px;
     margin:10px;
 }
+
+p{
+    color: black;
+    font-family:'Arial';
+    text-align: justify;
+    }
+    
+    .contact-info{
+    font-style: 'italic';
+    color: black;
+    display: inline-block;
+    margin-left:1%;
+    vertical-align: top;
+    padding: 8px;   
+    
+    }
+     
