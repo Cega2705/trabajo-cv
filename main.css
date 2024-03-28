@@ -8,12 +8,6 @@ font-family:'Arial';
 text-align: justify;
 }
 
-.contact-photo{
-    border-radius: 50px;
-    padding: 5px;
-    margin:5px;
-}
-
 .contact-info{
 font-style: 'italic';
 color: black;
