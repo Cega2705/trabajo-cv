@@ -32,3 +32,12 @@ p{
     background-color: whitesmoke;
     text-align: left;
 }
+.foto2{
+border-radius: 10px;
+border: 1px solid black;
+padding: 10px;
+margin:10px;
+}
+.Biografia{
+    background-color:beige;
+}
