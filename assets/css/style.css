@@ -9,9 +9,10 @@ p{
     color: black;
     font-family:'Arial';
     text-align: justify;
-    }
+    vertical-align: middle;
+}
     
-    .contact-info{
+.contact-info{
     font-style: 'italic';
     color: black;
     display: inline-block;
@@ -21,9 +22,13 @@ p{
     
     }
 
-.biografia{
+.titulo{
     font-size:  30px;
     text-align: center;
     background-color: darkgrey;
     }
-     
+
+.formulario{
+    background-color: whitesmoke;
+    text-align: left;
+}
