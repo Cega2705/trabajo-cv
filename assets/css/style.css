@@ -1,8 +1,8 @@
 .contact-photo{
     border-radius: 10px;
     border: 1px solid black;
-    padding: 10px;
-    margin:10px;
+    padding: 5px;
+    margin:5px;
 }
 
 p{
@@ -18,31 +18,38 @@ p{
     display: inline-block;
     margin-left:1%;
     vertical-align: top;
-    padding: 8px;   
-    }
+    padding: 5px;   
+}
 .titulo{
     font-size:  30px;
     text-align: center;
     background-color: darkgrey;
+}
+.intereses{
+    border: 4px solid black;
+    border-radius: 10px;
+}
+    
+.icon {
+    display:flex;
+    margin-top: 10px;
+    i{
+    padding-left:8px;
+    padding-right:8px;
     }
+}
 
-.formulario{
-    background-color: whitesmoke;
-    text-align: left;
-}
-.foto2{
-border-radius: 10px;
-border: 1px solid black;
-padding: 10px;
-margin:10px;
-}
 .Biografia{
     background-color:beige;
 }
-
-.intereses{
-    border: 2px solid black;
+.foto2{
     border-radius: 10px;
-    display: flex;
-
+    border: 1px solid black;
+    padding: 10px;
+    margin:10px;
+    }
+    
+.formulario{
+    background-color: whitesmoke;
+    text-align: left;
 }
