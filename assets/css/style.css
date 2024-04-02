@@ -19,9 +19,7 @@ p{
     margin-left:1%;
     vertical-align: top;
     padding: 8px;   
-    
     }
-
 .titulo{
     font-size:  30px;
     text-align: center;
@@ -40,4 +38,11 @@ margin:10px;
 }
 .Biografia{
     background-color:beige;
+}
+
+.intereses{
+    border: 2px solid black;
+    border-radius: 10px;
+    display: flex;
+
 }
